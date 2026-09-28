@@ -14,6 +14,12 @@ return(
             <button className="bg-pink-500 px-3 py-2 sm:p-3 text-sm sm:text-base text-white rounded-sm" onClick={()=> setColor('pink')}>Pink</button>
             <button className="bg-amber-700 px-3 py-2 sm:p-3 text-sm sm:text-base text-white rounded-sm" onClick={()=> setColor('brown')}>Brown</button>
             <button className="bg-purple-500 px-3 py-2 sm:p-3 text-sm sm:text-base text-white rounded-sm" onClick={()=> setColor('purple')}>Purple</button>
+            <button className="bg-cyan-900 px-3 py-2 sm:p-3 text-sm sm:text-base text-white rounded-sm" onClick={()=> setColor('cyan')}>Cyan</button>
+            <button className="bg-blue-800 px-3 py-2 sm:p-3 text-sm sm:text-base text-white rounded-sm" onClick={()=> setColor('blue')}>Blue</button>
+            <button className="bg-sky-500 px-3 py-2 sm:p-3 text-sm sm:text-base text-white rounded-sm" onClick={()=> setColor('sky')}>Sky</button>
+            <button className="bg-indigo-300 px-3 py-2 sm:p-3 text-sm sm:text-base text-white rounded-sm" onClick={()=> setColor('indigo')}>Indigo</button>
+            <button className="bg-fuchsia-700 px-3 py-2 sm:p-3 text-sm sm:text-base text-white rounded-sm" onClick={()=> setColor('fuchsia')}>Fuchsia</button>
+            <button className="bg-grey-400 px-3 py-2 sm:p-3 text-sm sm:text-base text-white rounded-sm" onClick={()=> setColor('grey')}>Grey</button>
         </div>
     </div>
 
